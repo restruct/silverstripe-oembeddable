@@ -1,0 +1,17 @@
+.embeddableUrl.input-group {
+    margin-bottom: 1rem;
+    .btn.loadEmbeddableData {
+        margin-right: 0;
+    }
+}
+.embeddableProperties {
+    margin-top: 1rem;
+    padding: 1rem;
+    border: 1px solid #dbe0e9;
+    border-radius: 4px;
+    max-width: 508px;
+    img {
+        height: auto;
+        max-width: 100%;
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "name": "restruct/silverstripe-oembeddable",
+    "type": "silverstripe-vendormodule",
+    "description": "OEmbed field (extracted from sheadawson/linkable)",
+    "license": "BSD-3-Clause",
+    "keywords": [
+        "silverstripe"
+    ],
+    "authors": [
+        {
+            "name": "Marcus Nyeholt",
+            "email": "marcus@silverstripe.com.au"
+        },
+        {
+            "name": "Restruct",
+            "email": "dev@restruct.nl"
+        }
+    ],
+    "require": {
+        "silverstripe/vendor-plugin": "^1.0",
+        "silverstripe/framework": "^4.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "Restruct\\Silverstripe\\OEmbedable": "src/"
+        }
+    },
+    "extra": {
+        "expose": [
+            "client"
+        ]
+    }
+}

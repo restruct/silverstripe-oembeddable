@@ -1,0 +1,11 @@
+de:
+  OEmbeddable:
+    CSSCLASS: 'CSS Klasse'
+    DESCRIPTION: Beschreibung
+    HEIGHT: Höhe
+    INSPECT: Sichten
+    LOADING: 'Wird geladen'
+    OEMBED_URL_ERROR: 'Could not look up provided URL: '
+    SOURCEURL: 'Ursprungs-URL'
+    TITLE: Titel
+    WIDTH: Breite

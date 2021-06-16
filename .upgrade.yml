@@ -1,0 +1,5 @@
+mappings:
+  EmbeddedObjectField: Restruct\Silverstripe\OEmbedable\OEmbeddableField
+  EmbeddedObject: Restruct\Silverstripe\OEmbedable\OEmbeddable
+  Sheadawson\Linkable\Forms\EmbeddedObjectField: Restruct\Silverstripe\OEmbedable\OEmbeddableField
+  Sheadawson\Linkable\Models\EmbeddedObject: Restruct\Silverstripe\OEmbedable\OEmbeddable
