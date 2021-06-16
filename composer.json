@@ -22,7 +22,7 @@
     },
     "autoload": {
         "psr-4": {
-            "Restruct\\Silverstripe\\OEmbedable": "src/"
+            "Restruct\\Silverstripe\\OEmbedable\\": "src/"
         }
     },
     "extra": {
